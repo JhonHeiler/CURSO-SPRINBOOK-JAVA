@@ -1,0 +1,26 @@
+1. descagar : https://www.jetbrains.com/es-es/idea/download/#section=windows
+2.template-configuracion del proyecto: https://start.spring.io/
+
+maven vs gradle
+libreria- permite descargar todas la liberia que necesite y las comprimen
+gradle- es mas libiano
+
+3. descargar maven- version compilada-binary------disco c: https://maven.apache.org/download.cgi----configurar variable de entorno
+4.DIRIGIMOS A INTELLIJ IDEA--abrir proyecto que configuramos
+
+PROGRAMAR UN SERVICIO
+1. diseño frotend= sbadmin 2
+
+2.controller ---java....com. nombre.nombre= basicamente sirve para manejar las url, que si el usuario va ingresar a la url de vulva una cosa en especifico
+creacion de clase dentro
+
+3 servicio =  esta toda la logica almacenada, si es logica relacionada con la base de datos....pasa a repositorio
+
+4. repository= logica almacenada con la base de datos....ejemplo si tenemos usuario hay va guadar toda la estrutura de usuario
+
+5. modelo = para guadar todos los nombres de las entidades
+
+Nacieron las aplicacion de los patrones.............JAVA --SPRING
+
+COMANDO PARA CUANDO EL PUERTO 8080 SE ESTA ULTILIZAND................ERRROR........... netstat -ano | findstr LISTENING | findstr 8080 DESPUES ..taskkill -PID 832 -F PARA FORZARLO
+
